@@ -1,0 +1,23 @@
+body{
+    margin: 3em 0 1em;
+    color: #000000;
+
+}
+#navi {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1em;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+    color: #ffffff;
+    background: #ffcc00;
+  text-decoration: none;
+}
+
+h1,p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
